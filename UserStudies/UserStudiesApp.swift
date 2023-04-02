@@ -12,6 +12,7 @@ struct UserStudiesApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+//            MyView()
         }
     }
 }
