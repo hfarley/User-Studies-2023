@@ -2,7 +2,7 @@
 //  UserStudiesApp.swift
 //  UserStudies
 //
-//  Created by Hannah Farley on 4/2/23.
+//  For task 2, delete line 14 and uncomment line 15
 //
 
 import SwiftUI
